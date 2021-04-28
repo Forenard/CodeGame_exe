@@ -1,2 +1,3 @@
 # CodeGame_exe
- Evalを使用したゲーム
+UnityでEvalを使用したゲーム
+対応プラットフォーム:Windows
